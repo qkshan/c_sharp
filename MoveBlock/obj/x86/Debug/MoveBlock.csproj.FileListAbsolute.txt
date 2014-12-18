@@ -1,0 +1,7 @@
+f:\document\document\visual studio 2010\Projects\MoveBlock\MoveBlock\bin\Debug\MoveBlock.exe
+f:\document\document\visual studio 2010\Projects\MoveBlock\MoveBlock\bin\Debug\MoveBlock.pdb
+f:\document\document\visual studio 2010\Projects\MoveBlock\MoveBlock\obj\x86\Debug\MoveBlock.Form1.resources
+f:\document\document\visual studio 2010\Projects\MoveBlock\MoveBlock\obj\x86\Debug\MoveBlock.Properties.Resources.resources
+f:\document\document\visual studio 2010\Projects\MoveBlock\MoveBlock\obj\x86\Debug\MoveBlock.csproj.GenerateResource.Cache
+f:\document\document\visual studio 2010\Projects\MoveBlock\MoveBlock\obj\x86\Debug\MoveBlock.exe
+f:\document\document\visual studio 2010\Projects\MoveBlock\MoveBlock\obj\x86\Debug\MoveBlock.pdb
